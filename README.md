@@ -1,4 +1,4 @@
-# Competitive Programming
+# CP
 
 ![CPP](https://img.shields.io/badge/CPP-informational?style=flat&logo=cplusplus&logoColor=white&color=007396)
 ![VSCode](https://img.shields.io/badge/VSCode-informational?style=flat&logo=vscode&logoColor=white&color=0078d7)
