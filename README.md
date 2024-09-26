@@ -12,7 +12,7 @@ This repository contains the C++ codes for implementing DSA.
 ### Clone the project
 
 ```bash
-git clone https://github.com/psychomita/cp
+git clone https://github.com/psychomita/dsa
 ```
 
 ### Go to the project directory
